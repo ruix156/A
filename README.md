@@ -41,3 +41,5 @@ bash <(curl -s https://raw.githubusercontent.com/Aniverse/A/i/b)
 wget -q https://github.com/Aniverse/A/raw/i/b && bash b
 ```
 
+使用方法
+bash <(wget --no-check-certificate -qO- https://github.com/Aniverse/A/raw/i/a)
